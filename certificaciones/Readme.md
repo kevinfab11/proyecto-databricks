@@ -1,1 +1,1 @@
-# Entregables del Proyecto Databricks
+# Certificados del curso para el proyecto final
